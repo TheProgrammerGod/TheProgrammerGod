@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theprogrammergod&label=Profile%20views&color=1eb4c8&style=flat-square" alt="theprogrammergod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theprogrammergod" alt="theprogrammergod" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
