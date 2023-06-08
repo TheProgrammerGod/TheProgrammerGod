@@ -14,13 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/programmergod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="programmergod" height="30" width="40" /></a>
-<a href="https://twitter.com/programmer_god_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="programmer_god_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suvojit-ghosh-589207223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvojit-ghosh-589207223" height="30" width="40" /></a>
 <a href="https://kaggle.com/suvojitghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suvojitghosh" height="30" width="40" /></a>
-<a href="https://medium.com/@programmergod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@programmergod" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/programmer_god" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="programmer_god" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suvo_ghosh_965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvo_ghosh_965" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/the_programmer_god" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_programmer_god" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/programmergod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="programmergod" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/suvoghosh965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suvoghosh965" height="30" width="40" /></a>
